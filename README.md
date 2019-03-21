@@ -1,1 +1,1 @@
-# mysuperproject1
+# gathering system information on Linux machine
